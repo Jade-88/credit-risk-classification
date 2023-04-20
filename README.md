@@ -13,6 +13,7 @@ I used the following steps to get the results:
 * Write a Credit Risk Analysis Report
 
 
+
 # Results
 
 # Model 1                                                     
@@ -45,6 +46,10 @@ Balanced Accuracy Score: 0.9936781215845847
     accuracy                           0.99     19384
    macro avg       0.92      0.99      0.95     19384
 weighted avg       0.99      0.99      0.99     19384
+
+
+
+
 
 
 
