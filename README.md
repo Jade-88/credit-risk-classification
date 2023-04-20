@@ -13,11 +13,11 @@ I used the following steps to get the results:
 * Write a Credit Risk Analysis Report
 
 
-Results
+# Results
 
 
 
-Summary
+# Summary
 
 The model performs well and can predict the outcome of a  
 
